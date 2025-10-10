@@ -7,3 +7,13 @@
     border: 0 solid;
     font-family: inherit;
 }
+
+head {
+    display: none;
+}
+
+body {
+    display: block;
+    min-height: 100vh;
+    line-height: 1.5;
+}
