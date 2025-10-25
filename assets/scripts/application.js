@@ -1,3 +1,4 @@
 (function(window, document, undefined) {
-    document.body.classList.add("application-initialized");
+    const initializedApplicationInitializedClass = "application-initialized";
+    document.body.classList.add(initializedApplicationInitializedClass);
 })(window, document);
