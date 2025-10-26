@@ -77,3 +77,7 @@ i,
 em {
     font-style: italic;
 }
+
+[hidden] {
+    display: none;
+}
