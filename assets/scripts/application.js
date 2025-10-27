@@ -1,4 +1,4 @@
 (function(window, document, undefined) {
-    const initializedApplicationInitializedClass = "application-initialized";
-    document.body.classList.add(initializedApplicationInitializedClass);
+    const applicationRootClass = "application-root";
+    document.body.classList.add(applicationRootClass);
 })(window, document);
