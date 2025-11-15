@@ -1,4 +1,3 @@
 (function(window, document, undefined) {
-    let applicationRootClass = 'application-root';
-    document.body.classList.add(applicationRootClass);
+    document.body.classList.add('application-root');
 })(window, document);
